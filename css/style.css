@@ -27,7 +27,6 @@ header{
 .nav-menu a:hover{
     color: #FC200C;
     transition: 0.3s;
-    font-size: 19px;
 }
 
 .logo img{
@@ -104,7 +103,6 @@ footer{
 .foot-nav a:hover{
     color: #FC200C;
     transition: 0.3s;
-    font-size: 19px;
 }
 
 .foot-logo {
